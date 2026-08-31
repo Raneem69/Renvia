@@ -1,0 +1,6 @@
+{
+  "name": "MIND",
+  "description": "Personal AI Assistant, Life Organizer & AI Companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
